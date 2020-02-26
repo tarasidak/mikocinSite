@@ -1,0 +1,88 @@
+.header-wrapper, 
+.information, 
+.not-efficient__block, 
+.efficient {
+    max-width: 480px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.recommendation {
+    justify-content: center;
+}
+
+.recommendation__item {
+    display: none;
+}
+.recommendation__item:first-child {
+    display: block;
+    text-align: center;
+    left: 40px;
+}
+
+.header__flex {
+    display: flex;
+    flex-direction: column;
+}
+
+.header-description {
+    position: absolute;
+    left: 1%;
+    max-width: 50%;
+}
+
+.header-description__img {
+    height: 120px;
+    position: absolute;
+    left: 20px;
+    top: 205px;
+}
+
+.form {
+    right: 1%;
+    width: 49%;
+    height: 422px;
+}
+
+.form__arrow {
+    display: none;
+}
+
+.information__illness {
+    display: none;
+}
+
+.information__stat img {
+    left: 40%;
+}
+
+.not-efficient__h2 {
+    font-size: 28px;
+}
+
+.not-efficient__info {
+    flex-direction: column;
+}
+
+.not-efficient__info__block {
+    width: 370px;
+    margin-left: 55px;
+    margin-bottom: 30px;
+}
+
+.information__mark {
+    left: 40%;
+    top: -44px;
+}
+
+.information__result {
+    left: 42%;
+}
+
+.efficient-info__block {
+    margin-left: 11%;
+}
+
+.footer__image{
+    display: none;
+}

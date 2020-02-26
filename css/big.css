@@ -1,0 +1,27 @@
+.header-description {
+    position: absolute;
+    left: 10%;
+}
+
+.header-images {
+    display: none;
+}
+
+.header-description {
+    position: absolute;
+    left: 15%;
+}
+
+.form {
+    right: 15%;
+    width: 30%;
+    height: 419px;
+    border: 5px solid #a7c93d;
+    border-radius: 5px;
+    background-color: #fff;
+    position: absolute;
+}
+
+.form__arrow {
+    left: 270px;
+}
